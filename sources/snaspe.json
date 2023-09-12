@@ -1,0 +1,19 @@
+{
+    "source_name":"The Library of the National Congress of Chile",
+    "source_dataset":"Areas Silvestres Protegidas Por El Estado Para Todo Chile",
+    "source_name_value":"snaspe",
+    "license_type":"CC-BY (equivalent)",
+    "license_text":"Los mapas vectoriales son puestos a disposición en virtud del principio de transparencia de la función pública. Las personas o instituciones pueden usar libremente esta información, señalando como fuente a la Biblioteca del Congreso Nacional de Chile. El material sólo posee carácter referencial, y bajo ninguna circunstancia debería ser utilizado para realizar trabajos que requieran precisión geodésica.",
+    "countries":"Chile",
+    "url_license":"https://www.bcn.cl/siit/mapas_vectoriales",
+    "url_license_archived":"https://web.archive.org/web/20220903182018/https://www.bcn.cl/siit/mapas_vectoriales",
+    "url_home":"https://www.bcn.cl",
+    "url_home_archived":"https://web.archive.org/web/20200422114846/https://www.bcn.cl/",
+    "url_download_page":"https://www.bcn.cl/siit/mapas_vectoriales",
+    "url_download_page_archived":"https://web.archive.org/web/20220903182018/https://www.bcn.cl/siit/mapas_vectoriales",
+    "url_download":"https://www.bcn.cl/obtienearchivo?id=repositorio/10221/10404/2/Snaspe.zip",
+    "url_download_archived":"https://web.archive.org/web/20220903181835/https://obtienearchivo.bcn.cl/obtienearchivo?id=repositorio/10221/10404/2/Snaspe.zip",
+    "date_accessed":"2022-09-03",
+    "note":"Direct import of source data, slight modifications to attributes. Some modification, merging, and node adjustments to geometries.",
+    "description":"Dataset of Chile's protected areas, published by The Library of the National Congress of Chile."
+}
